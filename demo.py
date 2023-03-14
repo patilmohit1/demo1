@@ -6,3 +6,5 @@ for i in lst:
   else:
     print("patil")
 #all the things are complted
+for i in range(len(lst)):
+  print(lst[i])
