@@ -8,3 +8,4 @@ for i in lst:
 #all the things are complted
 for i in range(len(lst)):
   print(lst[i])
+  print(i)
